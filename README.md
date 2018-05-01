@@ -9,4 +9,4 @@ ESP8266 web-socket controller for a Solenoid valve. This controller has the abil
 <img src="images/iPhoneWaterValve.png" width="300"></img>
 
 
-![valve](/images/iPhoneWaterValve.png width=300)
+![valve](/images/iPhoneWaterValve.png)
