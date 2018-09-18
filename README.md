@@ -7,3 +7,7 @@ ESP8266 web-socket controller for a Solenoid valve. This controller has the abil
 
 
 ![valve](/images/iPhoneWaterValve.png)
+
+
+![DeviceControl](/images/MistingIno.png)
+
