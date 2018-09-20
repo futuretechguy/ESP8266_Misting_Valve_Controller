@@ -16,6 +16,7 @@ ESP8266 web-socket controller for a Solenoid valve. This controller has the abil
 
 Solonoid valve and flow sensor
 https://www.adafruit.com/product/996
+https://www.amazon.com/gp/product/B01FJR9RRK/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
 
 ![Housing D! Mini DH22](/images/Housing_D1Mini.png)
 
