@@ -16,7 +16,7 @@ When the device.html page is requested (e.g.“http://192.168.1.100/device.html�
 
 An alternative approach is to use SPIFFS to store a physical device.html file on the ESP8266. To accomplish this copy the <! Document html> content from the devicecontrol.h and paste it into a new file and name it “Device.html”
 
-![DeviceControl](/images/DeviceControl.png)
+![DeviceControl](/images/DeviceControl_h.png)
 
 
 
