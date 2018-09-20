@@ -11,3 +11,9 @@ ESP8266 web-socket controller for a Solenoid valve. This controller has the abil
 
 ![DeviceControl](/images/MistingIno.png)
 
+
+![Valve & Flow Sensor](/images/Sensor&Valve.png)
+Solonoid valve and flow sensor
+
+![Housing D! Mini DH22](/images/Housing_D1Mini.png)
+D1 Mini, DH22 and PVC housing
