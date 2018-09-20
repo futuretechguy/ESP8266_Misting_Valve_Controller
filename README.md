@@ -31,3 +31,10 @@ An alternative approach is to use SPIFFS to store a physical device.html file on
 D1 Mini, DH22 and PVC housing. The DH22 is isolated from the the D1 Mini is a PVC housing that allows air circulation but prevent water entering.
 
 ![DH22 Housing Exploded](/images/DH22EXP.png)
+
+
+The HomeseerSend library is not required for normal autonomous operation of the device. It is used to send data to a home automation server called Homeseer running on my network. Homeseer monitors the temperatures received from that and other weather devices and knows when and how long (monitors water flow) to turn on the flow valve. It also sends voice and text alerts when the valve is turned on.
+
+![DH22 Housing Exploded](/images/homeseer.png)
+
+Home assistant is a free software that will do the same thing.
