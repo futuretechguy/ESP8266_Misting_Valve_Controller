@@ -30,4 +30,4 @@ An alternative approach is to use SPIFFS to store a physical device.html file on
 
 D1 Mini, DH22 and PVC housing. The DH22 is isolated from the the D1 Mini is a PVC housing that allows air circulation but prevent water entering.
 
-![DH22 Housing Exploded](/images/DH22Exp.png)
+![DH22 Housing Exploded](/images/DH22EXP.png)
