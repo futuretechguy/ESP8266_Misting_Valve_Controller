@@ -1,3 +1,9 @@
+//*********************************************************************************
+//* NTPtimeESP.h is located here: https://github.com/SensorsIot/NTPtimeESP
+//* HomeseerSend.h is located here https://github.com/futuretechguy/HomeseerSend (only need if homeseer softwareis present in network)
+//*********************************************************************************
+
+
 #include "devicecontrol.h"
 #include <HomeseerSend.h>
 #include <Arduino.h>
