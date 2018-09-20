@@ -11,10 +11,10 @@ ESP8266 web-socket controller for a Solenoid valve. This controller has the abil
 
 ![Device.html](/images/DeviceHTML.png)
 
-When the device.html page is requested (e.g.ìhttp://192.168.1.100/device.htmlî) the ESP8266 web server is instructed to look in the memory variable PAGE_DeviceControlPage in DeviceControl.h for the html data. 
+When the device.html page is requested (e.g.‚Äúhttp://192.168.1.100/device.html‚Äù) the ESP8266 web server is instructed to look in the memory variable PAGE_DeviceControlPage in DeviceControl.h for the html data. 
 
 
-An alternative approach is to use SPIFFS to store a physical device.html file on the ESP8266. To accomplish this copy the <! Document html> content from the devicecontrol.h and past it into a new file and name it ìDevice.htmlî
+An alternative approach is to use SPIFFS to store a physical device.html file on the ESP8266. To accomplish this copy the <! Document html> content from the devicecontrol.h and paste it into a new file and name it ‚ÄúDevice.html‚Äù
 
 ![DeviceControl](/images/DeviceControl.png)
 
