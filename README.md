@@ -35,6 +35,6 @@ D1 Mini, DH22 and PVC housing. The DH22 is isolated from the the D1 Mini is a PV
 
 The HomeseerSend library is not required for normal autonomous operation of the device. It is used to send data to a home automation server called Homeseer running on my network. Homeseer monitors the temperatures received from that and other weather devices and knows when and how long (monitors water flow) to turn on the flow valve. It also sends voice and text alerts when the valve is turned on.
 
-![Homeseer](/images/homeseer.png)
+![Homeseer](/images/Homeseer.png)
 
 Home assistant is a free software that will do the same thing.
