@@ -13,7 +13,10 @@ ESP8266 web-socket controller for a Solenoid valve. This controller has the abil
 
 
 ![Valve & Flow Sensor](/images/Sensor&Valve.png)
+
 Solonoid valve and flow sensor
+https://www.adafruit.com/product/996
 
 ![Housing D! Mini DH22](/images/Housing_D1Mini.png)
-D1 Mini, DH22 and PVC housing
+
+D1 Mini, DH22 and PVC housing. The DH22 is isolated from the the D1 Mini is a PVC housing that allows air circulation but prevent water entering.
