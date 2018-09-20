@@ -14,7 +14,7 @@ ESP8266 web-socket controller for a Solenoid valve. This controller has the abil
 
 ![Valve & Flow Sensor](/images/Sensor&Valve.png)
 
-[Brass Liquid Solenoid Valve - 12V - 1/2 NPS](https://www.adafruit.com/product/996)
+[Brass Liquid Solenoid Valve - 12V - 1/2 NPS](https://www.adafruit.com/product/996) and 
 [Hall Effect Flow Sensor](https://www.amazon.com/gp/product/B01FJR9RRK/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
 
 
