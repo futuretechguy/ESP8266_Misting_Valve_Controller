@@ -1,6 +1,6 @@
 # ESP8266_Misting_Valve_Controller
 
-ESP8266 web-socket controller for a Solenoid valve. This controller has the ability to create "ON" and "OFF" schedule for a water flow valve for a misting system. Temperature and humidity sensors are also included.  
+ESP8266 web-socket controller for a Solenoid valve. This controller has the ability to create "ON" and "OFF" schedules for a water flow valve of a misting system. Temperature and humidity sensors are also included.  
 
 
 <img src="images/MistingValve.png" width="700"></img>
